@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![my random image](https://picsum.photos/seed/picsum/200/300)
